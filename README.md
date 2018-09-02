@@ -11,3 +11,5 @@ https://scratch.mit.edu/projects/100965521/
 # planned features
 + improve gun gameplay  
 + add boss bird  
+  
+Check catengine/views/GameView.java for full changelog.  
