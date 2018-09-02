@@ -7,3 +7,7 @@ This game uses catengine 2016 version. Check my github for 2018 edition.
 # original project
 This game is a port of someone elses game. Check out the original scratch version:  
 https://scratch.mit.edu/projects/100965521/  
+
+# planned features
++ improve gun gameplay  
++ add boss bird  
